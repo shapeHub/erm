@@ -12,6 +12,7 @@ public class ShopCar {
 	public float price;
 	//打折
 	public float discount;
+	
 	//数量
 	public int number;
 	//运费
